@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6d54e97-9e70-4cf8-bd73-0b6652ad72d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/ru/netology/MyService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/main/java/ru/netology/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/ru/netology/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/Db.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/Db.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/DbSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/DbSetting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/MyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/MyEntity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
