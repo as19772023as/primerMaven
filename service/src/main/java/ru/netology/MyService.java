@@ -1,3 +1,7 @@
+package ru.netology;
+
+import java.util.UUID;
+
 public class MyService {
     private DbSetting dbSetting = new DbSetting("name", "password");
     private String name = "myService";

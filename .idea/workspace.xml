@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6d54e97-9e70-4cf8-bd73-0b6652ad72d4" name="Changes" comment="" />
+    <list default="true" id="c6d54e97-9e70-4cf8-bd73-0b6652ad72d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/ru/netology/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/ru/netology/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/ru/netology/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/Db.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/Db.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/DbSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/DbSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/MyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/MyEntity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +43,21 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\АБ\IdeaProjects\primerMaven\db\src\main\java\ru\netology" />
+      <recent name="C:\Users\АБ\IdeaProjects\primerMaven\api\src\main\java\ru\netology" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.netology" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn exec:" />
